@@ -2,7 +2,7 @@ A beginner-friendly collection of machine learning models, workflows, and experi
 Each notebook is designed to help learners understand ML concepts step-by-step through practical implementation.
 
 
-## 📍 What’s Inside :
+##📍 What’s Inside :
 
 -  Supervised ML models (Decision Tree, Random Forest, KNN, etc.)
 
@@ -20,7 +20,7 @@ Each notebook is designed to help learners understand ML concepts step-by-step t
 
 -  Step-by-step ML examples using real and synthetic datasets
 
-## 📍Technologies Used :
+##📍Technologies Used :
 
 -  Python
 
